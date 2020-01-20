@@ -1,6 +1,6 @@
 # Chatroom
 
-Java websocket chat application using Spring Boot and Thymeleaf
+Java websocket chat application using Spring Boot and Thymeleaf.<br/>
 This project is part of the udacity nanodegree in java
 
 # Chat Room
